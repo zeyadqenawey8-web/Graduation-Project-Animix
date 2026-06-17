@@ -57,3 +57,7 @@ This 2D motion graphics project tells the emotional and thought-provoking story 
 
 ### Week 5 — Post-production (Audio & Final Render)
 - Add sound effects, background music, and the final dialogue recording. Render the final video and prepare the presentation file for the final evaluation.
+
+---
+
+## 📁🔗 [Animix - The Forgotten Pound](https://drive.google.com/drive/folders/1jU1jK544fGr1AH0gPxJb9h-XyxLXet9J?usp=drive_link)
